@@ -1,2 +1,2 @@
 # Autopong-Keypad
-LAB code -Maskinorienterad Styrteknik MD407
+Quick game for embedded device
